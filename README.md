@@ -1,6 +1,4 @@
-# api-demo
-
-# Purpose of this repository is to demonstrate usage of simplyOrg Apis
+# simplyOrg api integration demo
 
 Setup: 
 
