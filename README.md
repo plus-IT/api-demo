@@ -44,6 +44,7 @@ Following attributest in so-seminarlist web component needs to be changed to res
 - cmsurl
 - backendurl
 
+Working example of simplyORg widget can be checked here: https://widgets.simplyorg.de/
 
 
 
