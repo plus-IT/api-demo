@@ -31,15 +31,14 @@ further booking process
 Setup: 
 
 to use the simplyOrg widget the following code snipate can be added to any web page(on any CMS system)
------------------------------------------
+
 
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" media="all">
 <script type="module" src="https://widgets.simplyorg.de/build/simplyorgwidget.esm.js"></script>
 <script nomodule src="https://widgets.simplyorg.de/build/simplyorgwidget.js"></script>
-
 <so-seminarlist cmsurl="https://testcms.simplyorg.de/" backendurl="https://test.simplyorg.de/"></so-seminarlist>
 
-------------------------------------------
+
 Currently it is pointing to our test cms system. 
 Following attributest in so-seminarlist web component needs to be changed to respective simplyOrg Instance
 - cmsurl
