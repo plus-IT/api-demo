@@ -16,5 +16,4 @@
       <link rel="stylesheet" type="text/css" href="/css/bootstrap-datetimepicker.css?1591940762" media="all">
       <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" media="all">
       <link rel="stylesheet" type="text/css" href="/css/scheduler.css?1591940762" media="all">
-      <title>SimplyOrg Api integration demo</title> 
 </head>
