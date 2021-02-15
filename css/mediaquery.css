@@ -1,0 +1,155 @@
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .2rem;
+    padding-left: .2rem;}
+
+
+
+    li.nav-item {padding: 0 12px}
+
+
+
+    .hometab li.nav-item {padding: 0}
+	
+	
+	
+}
+
+
+@media (max-width: 1367px) {
+
+.slide_me {padding-left:170px; transition: all ease-out 0.2s;}
+    
+    }
+
+@media (max-width: 1024px) {
+
+.slide_me {padding-left:0px; transition: all ease-out 0.2s;}
+    
+    }
+
+
+@media (max-width: 991px) {
+
+.nav_wrapper {padding: 0}
+.cart_icon {position: fixed; top: 20px; right: 140px; padding: 5px; }  
+	
+	.navbar-toggler { padding: .25rem .50rem; font-size: 1rem;}
+	
+	
+	
+	
+	
+	/*nav fixes*/
+
+
+	#navbarSupportedContent {   float: right;
+    position: absolute;
+    top: 75px;
+    background: white;
+    left: 0;
+    z-index: 9999;
+    width: calc(100% + 30px);
+    padding: 15px 20px;
+    margin: -15px; 
+	
+	-webkit-box-shadow: 0px 2px 3px rgba(202, 202, 202, 0.5);
+-moz-box-shadow: 0px 2px 3px rgba(202, 202, 202, 0.5);
+box-shadow: 0px 2px 3px rgba(202, 202, 202, 0.5);
+	}
+	
+	#nav_bar ul.profile_and_cart {
+    float: right;
+    position: absolute;
+    top: 15px;
+    right: 42px;
+}
+	
+	
+	.profile_and_cart li span.profile_name {display: none}
+	
+	
+	
+	/*new menu start*/
+	
+	.newmenu_wrapper { right: -125px;}
+	.newmenu_wrapper > .popover > .popover-arrow { right: 135px;}
+	
+	/*new menu end*/
+
+}
+
+@media only screen and (max-width: 800px) {
+    
+    /* Force table to not be like tables anymore */
+	#no-more-tables table, 
+	#no-more-tables thead, 
+	#no-more-tables tbody, 
+	#no-more-tables th, 
+	#no-more-tables td, 
+	#no-more-tables tr { 
+		display: block; 
+	}
+ 
+	/* Hide table headers (but not display: none;, for accessibility) */
+	#no-more-tables tr th{ 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+ 
+	#no-more-tables tr { border: 1px solid #ccc; margin-bottom: 10px }
+ 
+	#no-more-tables td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+		white-space: normal;
+		text-align:left;
+	}
+ 
+	#no-more-tables td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 12px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: normal;
+		text-align:left;
+		font-weight: bold;
+	}
+ 
+	/*
+	Label the data
+	*/
+	#no-more-tables td:before { content: attr(data-title); }
+	
+	table .small_device_fullwidth {padding-left: .75rem !important; }
+	td[data-title="Qualification"] .fa-minus-circle, td[data-title="Qualification"] .fa-plus-circle  { float:right }
+	
+	.wrapped_details {max-width: none !important}
+	.table-with-add-button tr:first-child {margin-bottom: 40px !important; visibility: hidden;}
+	    
+}
+
+
+@media (max-width: 576px) {
+
+	a.navbar-brand img {height: 32px}
+.forgot_password_text {text-align: left !important}
+.remember_me_text input {margin-left: -20px}
+.remember_me_text label {padding-left: 20px}
+.detail_event_pic {  max-width: 100%; margin-bottom: 15px}
+
+.mar_mob_20 {margin-left: 20px}
+    .pagination_wrapper span {display:inline-block; margin-bottom: 15px; width:100%}
+    
+    .button_wrapper button {width:100%; margin: 0 0 10px 0 }
+    .header_wrapper .event_name {margin-bottom: 15px}
+    .cart_icon {position: fixed; top: 20px; right: 100px; padding: 5px; }  
+    .button_wrapper button {width:100%}
+}
