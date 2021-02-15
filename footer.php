@@ -1,2 +1,3 @@
-<div id="page-footer"><div id="footer-notice"><div><span class="footer_link_span"><!----> <a target="_blank" href="#"><!----> AGB</a></span><span class="footer_link_span"><span> | </span> <a target="_blank" href="#"><!----> Imprint</a></span><span class="footer_link_span"><span> | </span> <a target="_blank" href="#"><!----> Data protection</a></span><span class="footer_link_span"><span> | </span> <a target="_blank" href="#"><!----> Contact</a></span></div></div></div>
+
     <script src="/js/jquery-3.5.1.min.js?1597755648" type="text/javascript"></script>
+

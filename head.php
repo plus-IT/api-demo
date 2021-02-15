@@ -6,7 +6,6 @@
       <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0" />
       
       <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" media="all">
-      <link rel="stylesheet" type="text/css" href="https://test.simplyorg.de/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" media="all">
       <link rel="stylesheet" type="text/css" href="/css/website.css?1594389084" media="all">
       <link rel="stylesheet" type="text/css" href="/css/custom.css?1598273767" media="all">
       <link rel="stylesheet" type="text/css" href="/css/mediaquery.css?1591940761" media="all">

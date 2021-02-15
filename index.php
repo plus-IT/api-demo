@@ -1,6 +1,5 @@
 <?php 
     $classPath='./classes';
-    $ajaxurl='/simplyorgapiintigration/?ajax=true';
     function isAjaxRequest(){
         return (isset($_REQUEST["ajax"]) && $_REQUEST["ajax"]==='true' );
     }
