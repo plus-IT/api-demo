@@ -1,5 +1,13 @@
 # simplyOrg Api integration demo
 
+simplyOrg apis does support following feaures,
+- list/search seminars
+- detail of seminar
+- booking process
+
+The entire process that simplyOrg CMS is capable of, can be implemented on any other system
+by using simpplyOrg Apis. 
+
 Setup: 
 
 Clone this repository in a webserver supporting php version 7.2 or greater
