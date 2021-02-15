@@ -4719,3 +4719,6 @@
 .fas {
     font-weight: 900
 }
+li{
+    list-style-type: none;
+}

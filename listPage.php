@@ -1,14 +1,11 @@
 <div class="container  main_wrapper">
 <div>
    <span class="catalog_container" pagedata="[object Object]" results="" filtervars="[object Object]" side_filters="[object Object]" app_loaded="true" settings="[object Object]">
-      <!-- <div class="row">
+      <div class="row">
          <div class="col-lg-10 col-md-9 col-sm-9">
-            <div class="input-group mb-3">
-               <input type="text" id='searchBox' placeholder="Search" aria-label="Recipient's username" aria-describedby="basic-addon2" class="form-control"> 
-               <div class="input-group-append"><button type="button" class="btn btn-primary" onclick='handleSearch()'>Search</button></div>
-            </div>
+         <h1>Simplyorg Api Demo</h1>
          </div>
-      </div> -->
+      </div>
    </span>
 </div>
         <div id='list'></div>

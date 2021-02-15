@@ -1,6 +1,14 @@
-
-<div class="container  main_wrapper" id='details'>
-
+<div class="container  main_wrapper"  >
+<div>
+   <span class="catalog_container" pagedata="[object Object]" results="" filtervars="[object Object]" side_filters="[object Object]" app_loaded="true" settings="[object Object]">
+      <div class="row">
+         <div class="col-lg-10 col-md-9 col-sm-9">
+         <h1>Simplyorg Api Demo</h1>
+         </div>
+      </div>
+   </span>
+</div>
+      <div id='details'></div>
 
 </div>
 
@@ -9,7 +17,7 @@
             function renderSeminarDetails(data){
 
                return  `
-               <div class="container  main_wrapper">
+               <div >
    <div>
       <div pagedata="{}" results="" filtervars="" side_filters="" settings="">
          <div class="row">
