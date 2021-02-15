@@ -61,7 +61,7 @@
             }
             function loadList(q=''){
                 $.ajax({
-                    url:"http://www.apidemo.com?ajax=true&endpoint=CMSSeminarList"+q,
+                    url:"/?ajax=true&endpoint=CMSSeminarList"+q,
                     success:function(response){
                             response=JSON.parse(response);
                             let listNode=document.getElementById("list");
