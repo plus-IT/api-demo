@@ -1,4 +1,4 @@
-# simplyOrg api integration demo
+# simplyOrg Api integration demo
 
 Setup: 
 
