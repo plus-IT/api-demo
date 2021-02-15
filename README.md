@@ -11,8 +11,11 @@ by using simpplyOrg Apis.
 Setup: 
 
 Clone this repository in a webserver supporting php version 7.2 or greater
+
+```
 git clone https://github.com/plus-IT/api-demo.git
 
+```
 Explaination:
 
 Under Classes folder there is file named Api.php wich contains our "Api" class
