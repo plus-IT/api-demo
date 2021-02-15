@@ -40,7 +40,7 @@ to use the simplyOrg widget the following code snipate can be added to any web p
 ```
 
 Currently it is pointing to our test system. 
-Following attributest in so-seminarlist web component needs to be changed to respective simplyOrg Instance
+Following attributest in so-seminarlist web component needs to be changed to your simplyOrg Instance
 - cmsurl
 - backendurl
 
